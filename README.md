@@ -9,7 +9,7 @@
 
 **Geralt** can obtain this sword at the end of the DLC if the player makes the right choices.
 
-Iris is a unique steel sword associated with Olgierd von Everec. *It has a special ability that charges the blade during combat.*
+Iris is a unique steel sword associated with Olgierd von Everec. ***It has a special ability that charges the blade during combat.***
 
 ***The sword can unleash a powerful strike when the blade glows red.***
 
